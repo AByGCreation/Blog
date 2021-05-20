@@ -1,1 +1,7 @@
-theme: jekyll-theme-agency
+baseurl: /agency-jekyll-theme/
+#theme: jekyll-theme-agency
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome descrppein your feed.xml site description."
+
